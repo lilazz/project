@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "description": "using JQuery",
+  "main": "index.js",
+  "authors": [
+    "lilazz"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
